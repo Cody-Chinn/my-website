@@ -5,8 +5,8 @@ class Header extends Component {
   render() {
 
     if(this.props.data){
-       var project = this.props.data.project;
-       var github = this.props.data.github;
+      var project = this.props.data.project;
+      var github = this.props.data.github;
       var name = this.props.data.name;
       var description= this.props.data.description;
       var city= this.props.data.address.city;
@@ -17,7 +17,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-      <ParticlesBg type="circle" bg={true} />
+      <ParticlesBg type="cobweb" color="ffffff" bg={true} />
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
