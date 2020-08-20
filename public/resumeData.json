@@ -4,19 +4,19 @@
     "description":"Full Stack Engineer | Innovation Specialist",
     "image":"profilepic.jpg",
     "bio":"As a technology enthusiast I strive to continue learning everything I can about the latest and greatest tech. My curiousity has stretched from Arduino and Raspberry Pi Projects to Mobile App and API development.",
-    "contactmessage":"I'm always willing to help! Just reach out and I'll get back to you as soon as I can.",
+    "contactmessage":"Need a mobile app, website or some innovating ideas? Get in touch!",
     "email": "cdchinn14@gmail.com",
     "phone": "810-623-8711",
     "github":"https://github.com/Cody-Chinn",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/Cody-Chinn/my-website",
     "address":{
       "street":"",
       "city":"Rockford",
       "state":"MI",
       "zip": "49341"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "codingcody.me",
+    "resumedownload":"./final-resume.docx",
     "social":[
       {
         "name":"facebook",
@@ -46,19 +46,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Jack of All Trades, Master of Mobile",
+    "skillmessage":"Web. Mobile. Innovation.",
     "education":[
       {
         "school":"Grand Valley State University",
         "degree":"BS in Computer Science",
         "graduated":"April 2020",
-        "description":"Studied Computer Science"
+        "description":"As a student at GVSU I studied a variety of subjects related to object oriented programming. Relevant courses I took include Artificial Intelligence, UX Design, and Web Programming. Highlights from these courses include learning react, competing in a Halite competion, and designing a mobile app using Adobe XD. GVSU gave me a well-rounded programming education so that I could go in any direction with my career."
       },
       {
         "school":"Hartland High School",
         "degree":"Diploma",
         "graduated":"May 2013",
-        "description":"General education from High School"
+        "description":"During my time in Hartland High School I participated in after school activities to reach out to the community. I was an active member of the Hartland High School Choir where I received my varsity letter for singing in state competitions. Additionally, I helped elementary students in the Big Brothers Big Sisters program where I taught an assigned \"Little\" basic math concepts and reading."
       }
     ],
     "work":[
@@ -66,19 +66,19 @@
         "company":"Steelcase",
         "title":"Associate Applications Engineer",
         "years":"April 2019 - Present",
-        "description":"After completeling an internship through the summer of 2019, Steelcase hired me in the Innovation Management Office to help the company explore new and emerging technologies."
+        "description":"After completing my internship during the summer of 2019, Steelcase extended an offer to continue working on their internal websites through the school year. Once graduated, I was offered a position in the Innovation Management Office (IMO) as an Associate Applications Engineer. In this position I'm tasked with investigating new technologies such as the cloud or blockchain and finding ways to leverage my findings in business processes."
       },
       {
         "company":"Challenge Manufacturing",
         "title":"Level 1 HelpDesk Intern",
         "years":"January 2018 - April 2019",
-        "description":"Assisted with HelpDesk tickets which included system management, installing computers on the factory floor and troubleshooting general technical issues to service the rest of the company."
+        "description":"As a HelpDesk intern I resolved tickets associated with system management, computer installation, network troubleshooting and software licensing. In addition to resolving tickets I also helped to improve business processes and analytics by coordinating with groups of people from different teams within IT, operations, finance, and engineering."
       },
       {
         "company":"GVSU IT HelpDesk",
-        "title":"Level 1 HelpDesk Intern",
+        "title":"Level 1 HelpDesk Technician",
         "years":"August 2015 - January 2018",
-        "description":"Assited students and professors on campus with a variety of issues. From network troubleshooting to password resets, the HelpDesk was a great starting point for my career in IT."
+        "description":"During my time at the GVSU HelpDesk I assisted students and professors on campus with a variety of needs. From network troubleshooting to password resets, the HelpDesk was a great starting point for my career in IT. Since a majority of troubleshooting was done over the phone, I learned to clearly explain solutions to those with varying degrees of technical knowledge."
       }
     ],
     "skills":[
